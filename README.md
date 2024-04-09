@@ -36,3 +36,7 @@ Aqui estão alguns insights possíveis:
 - **Explorador de Pesquisa**: Testar e validar a qualidade do índice de pesquisa através do Explorador de Pesquisa no portal Azure.
 
 Esses pontos destacam a capacidade de extrair informações valiosas de grandes conjuntos de dados e a importância de ferramentas de IA na otimização de processos de negócios.
+
+------------------
+[Documentação oficial da IA do Azure Search
+](https://learn.microsoft.com/pt-br/azure/search/)
